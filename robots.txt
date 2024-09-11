@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://swifultan.github.io/sitemap.html.gz
+Sitemap: https://swifultan.github.io/app/sitemap.html.gz
+Sitemap: https://swifultan.github.io/assets/sitemap.html.gz
+Sitemap: https://swifultan.github.io/css/sitemap.html.gz
+Sitemap: https://swifultan.github.io/includes/sitemap.html.gz
+Sitemap: https://swifultan.github.io/item/sitemap.html.gz
+Sitemap: https://swifultan.github.io/src/sitemap.html.gz
